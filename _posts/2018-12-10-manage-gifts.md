@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Manage Gifts
-git: https://github.com/jamigibbs/manage-gifts
+title: Self-supervised expression recognition with multi-task learning
 site: http://www.managegifts.com/
 ---
 

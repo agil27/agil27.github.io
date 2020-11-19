@@ -1,10 +1,13 @@
 ---
 layout: post
-title: Text Revealer
-git: https://github.com/jamigibbs/text-revealer-js
-site: https://jamigibbs.github.io/text-revealer-js/
+title: White-box test-time augmentation
+site: https://jamigibbs.github.io/gestta/
 ---
 
-Text Revealer is a browser script to assist in revealing deeper information about highlighted text on a page. When text is selected or highlighted, a popover displays useful details about the text such as Wikipedia entires and dictionary definition. Available as a standalone script or Chrome Extension.
+Traditional test-time augmentation(TTA) like five-crop or ten-crop aims to reduce the variance during the test-phase. We proposed a novel white-box tta method that will enhance the test images with explainable transformations in order to get an optimized performance for a black-box deep learning model.
 
-Built using Vanilla Javascript.
+In our work, we modeled the TTA process as a simple optimization problem over a set of normalized continuous parameters that controls the intensity of the transformations, with identity transformation explicity included by initializing the parameters to be 0.5.
+
+Inspired by the work of GES and other gradient estimation method, we proposed a novel TTA optimization algorithm based on surrogate gradient estimation method.
+
+See the link for the preprint.
