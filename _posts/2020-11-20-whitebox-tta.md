@@ -1,7 +1,7 @@
 ---
 layout: post
 title: White-box test-time augmentation
-site: 
+site: http://agil27.github.io/
 ---
 
 Traditional test-time augmentation(TTA) like five-crop or ten-crop aims to reduce the variance during the test-phase. We proposed a novel white-box tta method that will enhance the test images with explainable transformations in order to get an optimized performance for a black-box deep learning model.
