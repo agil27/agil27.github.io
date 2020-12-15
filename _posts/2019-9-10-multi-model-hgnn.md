@@ -8,4 +8,4 @@ In this project, we devised a novel modality-attentional block to enhance the hy
 
 We also introduce a hand-crafted feature to help the model focus on the individual difference.
 
-[preprint](http://agil27.github.io/hgnn.pdf)
+[[preprint]](http://agil27.github.io/hgnn.pdf)

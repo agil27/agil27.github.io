@@ -10,4 +10,4 @@ In our work, we model the TTA process as a simple optimization problem over a se
 
 Inspired by the work of guided evolutionary strategies(GES) and other gradient estimation method, we propose a novel TTA optimization algorithm based on surrogate gradient estimation method.
 
-[preprint](http://agil27.github.io/GrETTA.pdf)
+[[preprint]](http://agil27.github.io/GrETTA.pdf)
